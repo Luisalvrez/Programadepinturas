@@ -6,7 +6,7 @@ un prototipo para estar en funcion y agiliazar los procesos
 
 Caracteristicas de la Funcion
 
-1) EL programa requiere de Informacion de la base y altura de la superficie , luego calcula el el area 
+1) EL programa requiere de Informacion de la base y altura de la superficie , luego calcula el  area 
 2) EL Programa le pregunta si el area tiena una ventana o puerta o nada para poder hacer el calculo del area real y poder hacer la estimacion de pintura a utilizar 
 3) luego le indica cual es el area real y le indica cuanta pintura en litros utilizara para pintar la superficie
 4)Luego le dadra opciones (tipo) de pinutura para comprar si necesita  pintura de [Aceite , Agua , Aleo]

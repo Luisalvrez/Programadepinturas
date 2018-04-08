@@ -1,0 +1,16 @@
+Listado de Pruebas 
+1) Si el sistema realiza de manera correcta las conversiones del area
+2) si el sistema no tiene problemas de conectividad
+3) si el sistema realiza los calculos exactos
+4) si el sistema realza de manera correcta los funciones asiganadas , segun los requeriminetos del cliente
+5) si el programa valida que sean valores reales 
+
+Listado de resultados
+1) Las conversiones si las realizo de manera correcta
+2) El sistema si tiene problemas de conectividad no guarda ni nunga trasaccion , hasta que esta este completadad sin ningun problema de conectividad
+3)el sistema si realiza los calculos con valorez reales
+4)la funciones si las realiza de manera correcta 
+el calculo del area total o real de la superficie
+el calculo de la pintura el litros que se necesiten
+el calulo del costo del tipo pintura y tipo de compra 
+el calculo de total  ,subtotal y descuentos 
